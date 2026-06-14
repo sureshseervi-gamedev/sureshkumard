@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Space PArking",
     "description":"2D space simulation with physics, fuel, scoring, and landing challenges built in Unity & C#",
-    "status": "in-development",
+    "status": "released",
     "tags": ["Adventure", "Survival", "Single Player"],
     "image": "/game_covers/spaceparking.png",
     "link": "https://sureshseervi-gamedev.itch.io/space-parking",
@@ -15,7 +15,7 @@
     "description": "A platform game based on crates with different mechanics.",
     "status": "released",
     "tags": ["TicTacToe", "2D", "Two Player", "Casual"],
-    "image": "/game_covers/ox.png",
+    "image": "/game_covers/xo.png",
     "link": "https://sureshseervi-gamedev.itch.io/ox",
     "engine": "unity"
   },
