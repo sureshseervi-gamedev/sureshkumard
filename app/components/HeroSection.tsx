@@ -115,7 +115,7 @@ export default function HeroSection() {
           </AnimatePresence>
         </div>
 
-        <div className="hidden sm:flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+        <div className="flex items-center justify-center gap-2 text-sm md:text-2xl text-muted mb-6"">
           <Link
             href="#projects"
             className="px-8 py-4 bg-accent hover:bg-accent-dark text-white rounded-lg font-medium transition-colors"
@@ -130,7 +130,7 @@ export default function HeroSection() {
           </Link>
         </div>
       </div>
-      <div className="hidden sm:flex w-full justify-center ">
+      <div  className="max-w-4xl mx-auto text-center">
         <SocialLinks />
       </div>
     </section>
